@@ -73,4 +73,4 @@ We use [Google Sheets API version 4](https://developers.google.com/sheets/api), 
 - Material icons https://material.io/resources/icons/ (Apache)
 - Single Element CSS Spinner (31 May 2016) https://github.com/lukehaas/css-loaders (MIT)
 - Google Colour Palette Generator (2015) https://github.com/google/palette.js (MIT)
-- polylabel (Dec. 2016 customized) https://github.com/mapbox/polylabel to optimally place text labels in a polygon (ISC), with TinyQueue (v1.1.0) (https://github.com/mourner/tinyqueue), polylabel's dependency (ISC) 
+- polylabel (Dec. 2016 customized) https://github.com/mapbox/polylabel to optimally place text labels in a polygon (ISC), with TinyQueue (v1.1.0) (https://github.com/mourner/tinyqueue), polylabel's dependency (ISC)  
