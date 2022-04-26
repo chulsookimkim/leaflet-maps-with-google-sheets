@@ -1,5 +1,5 @@
 // paste in your published Google Sheets URL from the browser address bar
-var googleDocURL = 'https://docs.google.com/spreadsheets/d/12ydzJoCXRpKcO5BZ-3qAhu5hR6zLc7Cuc7cEszRPlis/edit#gid=0';
+var googleDocURL = 'AIzaSyAsBj_fqKJwxVwzcn5TFSh8_maUIldnLjY2';
 
 // insert your own Google Sheets API key from https://console.developers.google.com
 var googleApiKey = 'AIzaSyBh9nKnVZm2RPeZa0ywCOxPAgJJfK87WhY';
